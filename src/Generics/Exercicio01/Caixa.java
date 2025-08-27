@@ -1,4 +1,4 @@
-package Generics;
+package Generics.Exercicio01;
 
 public class Caixa<T> {
     private T conteudo;
